@@ -1,25 +1,36 @@
 📚 Library Management System (Python + OOP)
-📖 Overview
+##📖 Overview
 A simple Library Management System built using Python and Object-Oriented Programming (OOP) principles. It allows users to manage books efficiently with persistent data storage.
 
-🚀 Features
+##🚀 Features
 📌 Add & Remove Books dynamically
 📖 Borrow & Return Books with borrower details and issue/return dates
 ✅ Track Book Availability (issued or available)
 💾 Persistent Data Storage using JSON
 🔄 Automatically Loads & Saves Data on startup
-🛠️ Technologies Used
+
+##🛠️ Technologies Used
 Python 🐍
 Object-Oriented Programming (OOP)
 JSON (for data storage)
 
+
+##📸 Screenshots
+Here are some screenshots of the application:
+
+Library Menu
+Adding Books
+Borrowing Books
+Returning Books
+
+
 ##🎯 How to Run the Project
-Clone the repository:
+##Clone the repository:
 sh
     git clone https://github.com/Arjun006-coder/Library-Management-System-using-OOP.git  
 cd Library-Management-System-using-OOP  
 
-Run the program:
+##Run the program:
 sh
     python librarymanagementsys.py  
     
