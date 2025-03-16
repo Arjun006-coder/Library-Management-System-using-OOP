@@ -1,0 +1,12 @@
+{
+    "My Library1": {
+        "name": "My Library1",
+        "number_of_books": 3,
+        "books": [
+            "and then there were none",
+            "is it wrong to pick up girls in a dungeon",
+            "harry potter1"
+        ],
+        "issued_books": {}
+    }
+}
