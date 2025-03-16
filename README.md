@@ -34,7 +34,8 @@ cd Library-Management-System-using-OOP
 sh
     python librarymanagementsys.py  
     
-📌 Folder Structure
+##📌 Folder Structure
+
 Library-Management-System-using-OOP/
 │── screenshots/             # Folder for storing screenshots  
 │── librarymanagementsys.py  # Main Python script  
